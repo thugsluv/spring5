@@ -8,5 +8,6 @@ public class TravelClubApp {
 
     public static void main(String[] args) {
         SpringApplication.run(TravelClubApp.class);
+    
     }
 }
